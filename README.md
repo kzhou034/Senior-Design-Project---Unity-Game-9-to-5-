@@ -1,4 +1,4 @@
-## 9-To-5  -  Horde Shooter by Team Henchmen
+## 9-To-5, a Horde Shooter by Team Henchmen
 
 A first person horde shooter game developed in Unity for my senior design project at UCR. Fight enemies in a towering office building with weapons like laser projectors and keyboard as you aim to climb the ranks and finally retire!
 Created by Alex Camilleri, Jacob Korte, Kevin Pham, Kelley Zhou, Jason Nguyen, Henri Malahieude.
