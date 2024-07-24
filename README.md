@@ -18,6 +18,7 @@ Since there is no official release, the game is run through the Unity launcher i
 
 ## Video Demo
 Recorded by Henri Malahieude.
+
 [![9-to-5 Gameplay Demo](https://img.youtube.com/vi/TQ41T_Mmb4o/0.jpg)](https://www.youtube.com/watch?v=TQ41T_Mmb4o)
 
 ## Attributions
