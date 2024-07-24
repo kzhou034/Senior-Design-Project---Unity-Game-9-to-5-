@@ -16,6 +16,10 @@ Our project helped us learn not only how to design these features that are used 
 ## Installation
 Since there is no official release, the game is run through the Unity launcher itself. Download Unity as well as the Github zip file. Extract the zip file into the Unity Projects folder. Launch the game from Unity Hub, go to the scenes folder in the bottom of the UI, and select the 'Start' scene. Then click the play icon in the top of the screen.
 
+## Video Demo
+Recorded by Henri Malahieude.
+[![9-to-5 Gameplay Demo](https://img.youtube.com/vi/TQ41T_Mmb4o/0.jpg)](https://www.youtube.com/watch?v=TQ41T_Mmb4o)
+
 ## Attributions
 https://www.deviantart.com/hhh316/art/Seamless-carpet-texture-182971913	- Floor Texture 
 https://garystockbridge617.getarchive.net/amp/media/carpet-structure-texture-backgrounds-textures-29f01b - Floor Texture 
