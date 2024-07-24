@@ -1,8 +1,10 @@
+# UCR Senior Design Project - Spring 2024
+
+Created by [Alex Camilleri](https://github.com/ArsenalHail), Jacob Korte, [Kevin Pham](https://github.com/Kuvinn), [Kelley Zhou](https://github.com/kzhou034), [Jason Nguyen](https://github.com/Master-AMW), [Henri Malahieude](https://github.com/HenriMalahieude).
+
 ## 9-To-5, a Horde Shooter by Team Henchmen
 
 A first person horde shooter game developed in Unity for my senior design project at UCR. Fight enemies in a towering office building with weapons like laser projectors and keyboard as you aim to climb the ranks and finally retire!
-
-Created by Alex Camilleri, Jacob Korte, Kevin Pham, Kelley Zhou, Jason Nguyen, Henri Malahieude.
 
 9-To-5 is a horde first person shooter set in an office tower, where you have to defeat hordes of enemies to climb each floor and reach the boss. It takes inspiration from horde shooters from the late 2000s, such as Killing Floor and Left For Dead, that caused a surge of popularity in the genre. 
 It is developed in a 3D environment within the Unity game engine, and contains elements such as waves of enemies, different weapons and weapon types, different enemy types, AI pathfinding, projectile collision and health, level transitions, a merchant in between levels, a final boss, and more. 
@@ -23,6 +25,9 @@ Recorded by Henri Malahieude.
 
 ## Attributions
 https://www.deviantart.com/hhh316/art/Seamless-carpet-texture-182971913	- Floor Texture 
+
 https://garystockbridge617.getarchive.net/amp/media/carpet-structure-texture-backgrounds-textures-29f01b - Floor Texture 
+
 https://freepbr.com/materials/office-carpet1/	- Floor Material 
+
 https://skfb.ly/6QV6X	- Enemy Character 
